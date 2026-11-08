@@ -147,7 +147,7 @@
       "CREATE UNIQUE INDEX `idx_email__pb_users_auth_` ON `users` (`email`) WHERE `email` != ''"
     ],
     "created": "2026-10-18 00:27:27.976Z",
-    "updated": "2026-10-18 00:27:27.987Z",
+    "updated": "2026-11-08 21:28:24.906Z",
     "system": false,
     "authRule": "",
     "manageRule": null,
@@ -284,8 +284,8 @@
     "indexes": [
       "CREATE UNIQUE INDEX idx_fav_user_product ON favorites (user, product_id)"
     ],
-    "created": "2026-10-18 00:27:52.586Z",
-    "updated": "2026-10-18 00:27:52.586Z",
+    "created": "2026-11-08 21:28:24.924Z",
+    "updated": "2026-11-08 21:28:24.924Z",
     "system": false
   }
 ]
